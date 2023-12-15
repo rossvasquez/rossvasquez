@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <h1>Welcome To My Profile 👋</h1>
   <img src="https://media1.tenor.com/m/bdHtTkZFGTIAAAAC/developers.gif" width="300" />
+  <p>(yes, it is ironic I prefer JavaScript over C#, for now..)</p>
 </div>
 </br>
 <div id="badges" align="center">
