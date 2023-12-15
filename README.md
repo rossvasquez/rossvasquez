@@ -5,10 +5,10 @@
   <p>(yes, it is ironic I prefer JavaScript over C#, for now...)</p>
 </div>
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/ross-vasquez" target="_blank">
+  <a href="https://linkedin.com/in/ross-vasquez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.x.com/quezdevelops" target="_blank">
+  <a href="https://www.x.com/quezdevelops">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
