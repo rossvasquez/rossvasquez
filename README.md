@@ -15,10 +15,6 @@
 <div align="center">
   <a href="mailto:thomasross.vasquez@gmail.com">Send Me an Email</a>
 </div>
-</br>
-<div id="profile-counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=rossvasquez&style=flat-square&color=blue" alt="My profile counter"/>
-</div>
 
 ---
 
