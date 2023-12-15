@@ -23,5 +23,5 @@
   <p>👯 I’m looking to collaborate on anything JavaScript</p>
   <p>🤔 I’m looking for help with translating my passion into a professional opportunity</p>
   <p>💬 Ask me about how to swing a golf club</p>
-  <p>Fun fact: I can dunk 🏀</p>
+  <p>🏀 Fun fact: I can dunk</p>
 </div>
