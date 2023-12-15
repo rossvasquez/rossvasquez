@@ -1,6 +1,9 @@
 ### Welcome to my Profile 👋
 
-![](developers.gif)
+<div id="header" align="center">
+  ![](developers.gif)
+</div>
+
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/ross-vasquez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
