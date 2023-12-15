@@ -16,7 +16,7 @@
   <a href="mailto:thomasross.vasquez@gmail.com">Send Me an Email</a>
 </div>
 
----
+</br>
 
 - 🔭 I’m currently working on Replit Bounties and Creating an AI Contract Writing Application
 - 🌱 I’m currently learning better algorithms for DSA and Backend Solutions
