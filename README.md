@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <h1>Welcome to my Profile 👋</h1>
+  <h2>Welcome to my Profile 👋</h2>
   <img src="https://media1.tenor.com/m/bdHtTkZFGTIAAAAC/developers.gif" width="300" />
 </div>
 </br>
