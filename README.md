@@ -18,9 +18,9 @@
 
 </br>
 
-- 🔭 I’m currently working on Replit Bounties and Creating an AI Contract Writing Application
-- 🌱 I’m currently learning better algorithms for DSA and Backend Solutions
-- 👯 I’m looking to collaborate on anything JavaScript
-- 🤔 I’m looking for help with translating my passion into a professional opportunity
-- 💬 Ask me about how to swing a golf club
-- ⚡ Fun fact: I can dunk 🏀
+<p>- 🔭 I’m currently working on Replit Bounties and Creating an AI Contract Writing Application</p>
+<p>- 🌱 I’m currently learning better algorithms for DSA and Backend Solutions</p>
+<p>- 👯 I’m looking to collaborate on anything JavaScript</p>
+<p>- 🤔 I’m looking for help with translating my passion into a professional opportunity</p>
+<p>- 💬 Ask me about how to swing a golf club</p>
+<p>- ⚡ Fun fact: I can dunk 🏀</p>
