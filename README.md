@@ -1,7 +1,7 @@
 ### Welcome to my Profile 👋
 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/bdHtTkZFGTIAAAAC/developers.gif" width="200" />
+  <img src="https://media1.tenor.com/m/bdHtTkZFGTIAAAAC/developers.gif" width="300" />
 </div>
 
 <div id="badges" align="center">
