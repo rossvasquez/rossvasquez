@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/bdHtTkZFGTIAAAAC/developers.gif" width="300" />
 </div>
-
+</br>
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/ross-vasquez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
