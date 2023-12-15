@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 <div id="header" align="center">
-  <img src="https://tenor.com/sR1j.gif" width="100" />
+  <img src="[https://tenor.com/sR1j.gif](https://tenor.com/view/developers-gif-4458491)" width="200" />
 </div>
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/ross-vasquez" target="_blank">
