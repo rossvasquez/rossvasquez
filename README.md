@@ -11,16 +11,14 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="center">
+<div>
   <a href="mailto:thomasross.vasquez@gmail.com">Send Me an Email</a>
 </div>
 
 </br>
-<div id="about" align="center">
-  <p>🔭 I’m currently working on Replit Bounties and Creating an AI Contract Writing Application</p>
-  <p>🌱 I’m currently learning more efficient algorithms for DSA and Backend Solutions</p>
+<div id="about">
+  <p>🌱 I’m currently learning how Laravel makes Full-Stack a "Breeze"</p>
   <p>👯 I’m looking to collaborate on anything JavaScript</p>
-  <p>🤔 I’m looking for help with translating my passion into a professional opportunity</p>
   <p>🏌️ Ask me how to swing a golf club</p>
 </div>
 </br>
