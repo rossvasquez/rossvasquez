@@ -1,10 +1,9 @@
 
-<div id="header" align="center">
+<div id="header">
   <h1>Welcome To My Profile 👋</h1>
   <img src="https://media1.tenor.com/m/bdHtTkZFGTIAAAAC/developers.gif" width="300" />
-  <p>(yes, it is ironic I prefer JavaScript over C#, for now...)</p>
 </div>
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://linkedin.com/in/ross-vasquez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
