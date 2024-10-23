@@ -1,8 +1,6 @@
 
 <div id="header">
   <h1>Welcome 👋</h1>
-<p>Building from the heartland.</p>
-<p>📍 Iowa</p>
 <!--   <img src="https://media1.tenor.com/m/bdHtTkZFGTIAAAAC/developers.gif" width="300" /> -->
 </div>
 <div id="badges">
