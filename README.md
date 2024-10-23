@@ -1,7 +1,7 @@
 
 <div id="header">
   <h1>Welcome To My Profile 👋</h1>
-  <img src="https://media1.tenor.com/m/bdHtTkZFGTIAAAAC/developers.gif" width="300" />
+<!--   <img src="https://media1.tenor.com/m/bdHtTkZFGTIAAAAC/developers.gif" width="300" /> -->
 </div>
 <div id="badges">
   <a href="https://linkedin.com/in/ross-vasquez">
