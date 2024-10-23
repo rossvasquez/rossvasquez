@@ -8,20 +8,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.x.com/quezdevelops">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<div>
-  <a href="mailto:thomasross.vasquez@gmail.com">Send Me an Email</a>
 </div>
 
 </br>
-<div id="about">
-  <p>🌱 I’m currently learning how Laravel makes Full-Stack a "Breeze"</p>
-  <p>👯 I’m looking to collaborate on anything JavaScript</p>
-  <p>🏌️ Ask me how to swing a golf club</p>
-</div>
-</br>
+
 <div id="technologies">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
