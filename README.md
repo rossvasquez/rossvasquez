@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.x.com/quezdevelops">
-    <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=x&logoColor=black&color=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge?logo=x&logoColor=black&color=white">
   </a>
 </div>
 
