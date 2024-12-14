@@ -7,9 +7,6 @@
   <a href="https://linkedin.com/in/ross-vasquez">
     <img src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.x.com/quezdevelops">
-    <img src="https://img.shields.io/badge/x-white?style=for-the-badge&logo=x&logoColor=black" alt="X Badge"/>
-  </a>
 </div>
 
 </br>
